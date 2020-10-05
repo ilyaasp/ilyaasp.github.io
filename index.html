@@ -25,9 +25,9 @@
 						<nav>
 							<ul>
 								<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-								<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+								<li><a href="https://facebook.com/ilyas.hammam" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
 								<li><a href="#" class="icon brands fa-dribbble"><span class="label">Dribbble</span></a></li>
-								<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+								<li><a href="https://github.com/ilyaasp" class="icon brands fa-github"><span class="label">Github</span></a></li>
 								<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
 							</ul>
 						</nav>
@@ -35,13 +35,18 @@
 
 				<!-- Footer -->
 					<footer id="footer">
-						<span class="copyright">&copy; 2020 by Ilyas Perlindungan. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
+						<span class="copyright">&copy; <span id="currentYear">currentYear</span> by Ilyas Perlindungan. Design: <a href="http://html5up.net">HTML5 UP</a>.</span>
 					</footer>
 
 			</div>
 		</div>
 		<script>
-			window.onload = function() { document.body.classList.remove('is-preload'); }
+			n =  new Date();
+			currentYear = n.getFullYear();
+			window.onload = function() { 
+								document.body.classList.remove('is-preload'); 
+								document.getElementById("currentYear").innerHTML=currentYear;
+							}
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
 		</script>
