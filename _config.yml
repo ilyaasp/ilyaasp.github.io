@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ilyas Perlindungan's Homepage"
+title                    : "IP's Homepage"
 title_separator          : "-"
 name                     : &name "Ilyas Perlindungan"
 description              : &description "personal description"
