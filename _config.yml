@@ -21,7 +21,7 @@ repository               : "ilyaasp/ilyaasp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Ilyas-P.jpg"
+  avatar           : "ip.jpeg"
   name             : "Ilyas Perlindungan"
   pronouns         : # example: "she/her"  
   bio              : "Analytics engineer by day, curious learner by night!"
