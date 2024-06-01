@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![Illustration of combining vision and language modalities](/images/Ilyas-P.png){: .align-right width="300px"}
+![Illustration of combining vision and language modalities](/images/ae.jpeg){: .align-right width="300px"}
 👨🏻‍💻 I'm an Analytics Engineer at Aruna Indonesia
 
 🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
