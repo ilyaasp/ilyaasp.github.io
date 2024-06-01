@@ -21,7 +21,7 @@ repository               : "ilyaasp/ilyaasp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ip.jpeg"
+  avatar           : "ip2.jpeg"
   name             : "Ilyas Perlindungan"
   pronouns         : # example: "she/her"  
   bio              : "Analytics engineer by day, curious learner by night!"
@@ -59,7 +59,7 @@ author:
   lastfm           : # Username
   linkedin         : "ilyas-perlindungan"
   mastodon         : # URL
-  medium           : "ilyaasp.medium.com"
+  medium           : "https://ilyaasp.medium.com"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
