@@ -1,5 +1,17 @@
 # main links links
-main:
+main: 
+  - title: "CV"
+    url: /files/CV Ilyas P.pdf
+
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  # - title: "Guide"
+  #   url: /markdown/
+
   # - title: "Publications"
   #   url: /publications/
 
@@ -7,16 +19,4 @@ main:
   #   url: /talks/    
 
   # - title: "Teaching"
-  #   url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  #   url: /teaching/   
