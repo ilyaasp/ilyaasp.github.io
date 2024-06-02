@@ -33,7 +33,7 @@ To accompany this work, I have submitted a blog post to the **ICLR** Blogposts T
 
 Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/). -->
 
-## 👨🏻‍🔬 Professional Experience
+## 👨🏻‍💻 Professional Experience
 Currently I am working as an **Analytics Engineer** at Aruna. What we are doing, basically, is helping the stakeholders on making informed decision based on data. I can not explained what I do in detail here due to NDA signed. But, I can tell you that we are also doing some automations here and there to improve some processes in terms of reducing time and quantity for manual and non-manual processes. I have also successfulyy mentored interns during my time here at Aruna.
 
 <!-- ## 📚 Teaching and Community Contributions
