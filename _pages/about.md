@@ -10,9 +10,9 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/ae.jpeg){: .align-right width="300px"}
-👨🏻‍💻 I'm an Analytics Engineer at Aruna Indonesia
+👨🏻‍💻 I'm an Analytics Engineer at Aruna Indonesia. If you wonder what I do as Analytics Engineer, I think the this image explained it well enough.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🧑🏻‍🎓 Previously, I completed BSc in Computer Science at ESQ Business School!
 
 📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
 
