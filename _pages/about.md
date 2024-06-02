@@ -10,13 +10,13 @@ redirect_from:
 
 
 ![Illustration of combining vision and language modalities](/images/ae.jpeg){: .align-right width="300px"}
-👨🏻‍💻 I'm an Analytics Engineer at Aruna Indonesia. If you wonder what I do as Analytics Engineer, I think the this image explained it well enough.
+👨🏻‍💻 I'm an Analytics Engineer at [Aruna](https://aruna.id). If you wonder what I do, I think this image explained it well enough 😉.
 
-🧑🏻‍🎓 Previously, I completed BSc in Computer Science at ESQ Business School!
+🧑🏻‍🎓 Previously, I completed BSc in Computer Science at [ESQ Business School](https://esqbs.ac.id)!
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+🐟 My experiences span multiple industries, including Fishery, Insurtech, and Telecom.
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
+📚 I love reading more than anything. Mostly, about tech, finance and self improvement. You can find what I read on my [goodreads page](https://www.goodreads.com/user/show/178775383-ilyas-perlindungan) and what I write on my [medium](https://ilyaasp.medium.com).
 
 # Selected Experience
 
